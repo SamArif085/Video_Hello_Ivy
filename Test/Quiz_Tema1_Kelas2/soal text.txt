@@ -1,9 +1,11 @@
-apakah ini pelangi? salah
-apakah ini pelangi? benar
-apakah ivy kepanasan? salah
-apakah ivy kehujanan? benar
-apakah langit begitu cerah? salah
-apakah langit begitu cerah? benar
-apakah ini warna - warna pelangi? salah
-apakah ini warna - warna pelangi? benar
-apakah air hujan membuat sawah kering? salah
+perkenalan https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/Perkenalan.mp4?raw=true
+
+apakah ini pelangi? salah https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_1.mp4?raw=true
+apakah ini pelangi? benar https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_2.mp4?raw=true
+apakah ivy kepanasan? salah https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_3.mp4?raw=true
+apakah ivy kehujanan? benar https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_4.mp4?raw=true
+apakah langit begitu cerah? salah https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_5.mp4?raw=true
+apakah langit begitu cerah? benar salah https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_6.mp4?raw=true
+apakah ini warna - warna pelangi? benar https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_7.mp4?raw=true
+apakah ini warna - warna pelangi? https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_8.mp4?raw=true
+apakah air hujan membuat sawah kering? salah https://github.com/SamArif085/Video_Hello_Ivy/blob/main/Test/Quiz_Tema1_Kelas2/quiz%202_9.mp4?raw=true
